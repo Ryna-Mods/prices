@@ -2,7 +2,7 @@
 ## Title: Prices by Ryna
 ## Notes: Puts what a vendor pays for an item, and what the auction house asks, on every item tooltip. A mod of Ryna; /ryna for settings.
 ## Author: Ryna contributors
-## Version: 0.5.0
+## Version: 0.5.1
 ## Dependencies: Ryna_Core
 ## X-Ryna-API: 2
 ## LoadOnDemand: 0
